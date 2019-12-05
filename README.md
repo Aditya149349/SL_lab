@@ -8,7 +8,7 @@
 
 
 1. Intro to Python and JavaScript(week1 and week2)
-      i. Python Basics - Datatypes, Functions, List Comprehension
+      - Python Basics - Datatypes, Functions, List Comprehension
       ii. Student Dictionary
       iii .Atomic Dictionary
       iv. HTML Basics and JavaScript - Forms and Function (Multiply and Addition)
